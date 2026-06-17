@@ -57,6 +57,6 @@ I'm continually improving my skills in full-stack development, software engineer
 
 Feel free to explore my repositories and follow my development journey!
 
-![Snake animation](https://github.com/DevAisha-Patel/DevAisha-Patel/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/DevAisha-Patel/DevAisha-Patel/blob/output/github-contribution-grid-snake.svg) -->
 
 
